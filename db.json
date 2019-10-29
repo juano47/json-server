@@ -1,0 +1,45 @@
+{
+  "platos": [
+    {
+      "calorias": 233,
+      "descripcion": "plata ",
+      "enOferta": false,
+      "id": 100,
+      "precio": 1000,
+      "titulo": "platuli"
+    },
+    {
+      "calorias": 777000,
+      "descripcion": "dess",
+      "enOferta": false,
+      "id": 6164,
+      "precio": 0,
+      "titulo": "pppyyy"
+    },
+    {
+      "calorias": 444,
+      "descripcion": "uxb",
+      "enOferta": false,
+      "id": 12,
+      "precio": 544,
+      "titulo": "sofia peque"
+    },
+    {
+      "calorias": 55,
+      "descripcion": "gccc",
+      "enOferta": false,
+      "id": 52,
+      "precio": 22,
+      "titulo": "gg"
+    },
+    {
+      "calorias": 123,
+      "descripcion": "new",
+      "enOferta": false,
+      "id": 1000,
+      "precio": 123,
+      "titulo": "nuevo"
+    }
+  ],
+  "pedidos": []
+}
