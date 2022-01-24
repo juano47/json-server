@@ -42,7 +42,6 @@
     }
   ],
   "pedidos": [],
-  {
     "data": {
         "ordenes": [{
                 "id": 1643793,
@@ -80,8 +79,7 @@
                 "revisada": true,
                 "aprobada": false
             }
-        ]
-    },
+        ],
     "code": "EXECUTION_OK"
 },
 "ordenes": [{
