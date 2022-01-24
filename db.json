@@ -42,6 +42,7 @@
     }
   ],
   "pedidos": [],
+   "response": {
     "data": {
         "ordenes": [{
                 "id": 1643793,
@@ -79,44 +80,8 @@
                 "revisada": true,
                 "aprobada": false
             }
-        ],
-    "code": "EXECUTION_OK"
-},
-"ordenes": [{
-                "id": 1643793,
-                "nombre": "resto",
-                "revisada": true,
-                "aprobada": true
-            },
-            {
-                "id": 1646484,
-                "nombre": "Presto",
-                "revisada": true,
-                "aprobada": false
-            },
-            {
-                "id": 1646794,
-                "nombre": "Webkit",
-                "revisada": false,
-                "aprobada": false
-            },
-            {
-                "id": 1642544,
-                "nombre": "Gecko",
-                "revisada": true,
-                "aprobada": true
-            },
-            {
-                "id": 16437879,
-                "nombre": "Trident",
-                "revisada": true,
-                "aprobada": true
-            },
-            {
-                "id": 2843754,
-                "nombre": "Trident",
-                "revisada": true,
-                "aprobada": false
-            }
         ]
+    },
+    "code": "EXECUTION_OK"
+}
 }
